@@ -1,0 +1,39 @@
+Nota:Siempre para pasar al siguente SIEMPRE SE HACE DEL nivel mas interno.
+La suma del nivel mas interno despues sera la suma de el nivel antes que ese.
+
+Apareo:En que casos hay que usarlos?
+Tenemos 2 listas con valores dentro,pueder tener distinto largo;
+-Posibles usos medios desactualizados:
+Algoritmo de merc sort(ver)
+Tenes 1 lista ordenada por un criterio;
+Tenes otra lista ordenada por un criterio;
+el archivo de merc sort o el apareo:ES JUNTAR AMBAS LISTA Y ORDENARLOS POR UN CRITERIO;
+UNOS DE LOS MEJORES PARA ORDENAR Y ES MAS EFICIENTE DEL INSERCION
+VER SI TIENE QUE SER EL MISMO CRITERIO (psdta Si tiene que ser el mismo criterio de ambas listas y ambas lista tienen que ser con el mismo criterio)
+Ej:
+lista1:Ordenada ascendentemente
+4
+6
+9
+12
+lista2:Ordenada ascendentemente
+3
+5
+8
+11
+13
+=>lista ordenada de ambas lista ascendentemente
+3
+4
+5
+6
+8
+9
+11
+12
+13
+
+
+
+Del num:
+Si en caso de que sean iguales y tenemos que darle prioridad a uno de las 2 listas,se soluciona con poner un = en la comparacion

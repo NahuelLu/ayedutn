@@ -1,0 +1,139 @@
+
+-------------------------------------------
+Muelle 0 - Buques por amarrar 3
+	Buque: Majestic Maersk - bandera: Dinamarca - Total de contenedores: 107
+		Producto	Contenedores
+		Laptop  	38
+		Lavarropa       12
+		Licuadora       11
+		Laptop  	46
+
+	Buque: Leto - bandera: Liberia - Total de contenedores: 55
+		Producto	Contenedores
+		Licuadora       19
+		Celular 	36
+
+	Buque: MSC Sixin - bandera: Panama - Total de contenedores: 102
+		Producto	Contenedores
+		Compresor       48
+		Pintura 	30
+		Pintura 	24
+
+
+-------------------------------------------
+Muelle 1 - Buques por amarrar 2
+	Buque: Maribo Maersk - bandera: Dinamarca - Total de contenedores: 148
+		Producto	Contenedores
+		Compresor       30
+		Cerveza 	13
+		Licuadora       46
+		Televisor       47
+		Licuadora       12
+
+	Buque: HMM Algeciras - bandera: Panama - Total de contenedores: 159
+		Producto	Contenedores
+		Televisor       41
+		Compresor       41
+		Celular 	39
+		Televisor       38
+
+
+-------------------------------------------
+Muelle 2 - Buques por amarrar 2
+	Buque: Carolina Star - bandera: Liberia - Total de contenedores: 86
+		Producto	Contenedores
+		Celular 	20
+		Licuadora       11
+		Televisor       28
+		Pintura 	16
+		Televisor       11
+
+	Buque: MSC Gulsun - bandera: Panama - Total de contenedores: 167
+		Producto	Contenedores
+		Lavarropa       26
+		Celular 	37
+		Celular 	10
+		Celular 	47
+		Pintura 	19
+		Cerveza 	18
+		Laptop  	10
+
+
+-------------------------------------------
+Muelle 3 - Buques por amarrar 1
+	Buque: MSC Oscar - bandera: Panama - Total de contenedores: 300
+		Producto	Contenedores
+		Pintura 	24
+		Pintura 	12
+		Celular 	20
+		Laptop  	13
+		Pintura 	36
+		Pintura 	46
+		Celular 	37
+		Cerveza 	20
+		Laptop  	49
+		Lavarropa       12
+		Televisor       31
+
+
+-------------------------------------------
+Muelle 4 - Buques por amarrar 2
+	Buque: Matz Maersk - bandera: Dinamarca - Total de contenedores: 117
+		Producto	Contenedores
+		Pintura 	27
+		Televisor       24
+		Laptop  	21
+		Pintura 	25
+		Televisor       20
+
+	Buque: Lilly Schulte - bandera: Liberia - Total de contenedores: 136
+		Producto	Contenedores
+		Televisor       45
+		Lavarropa       41
+		Lavarropa       16
+		Laptop  	34
+
+-------------------------------------------
+Ingrese el nro de muelle a listar: 
+Ingrese el nro de muelle del buque a cambiar: 4
+Ingrese el nombre del buque a cambiar: Matz Maersk
+Ingrese la bandera del buque a cambiar: Dinamarca
+Ingrese el nro de muelle del buque a cambiar: 3
+
+------------------desde-------------------------
+Muelle 4 - Buques por amarrar 1
+	Buque: Lilly Schulte - bandera: Liberia - Total de contenedores: 136
+		Producto	Contenedores
+		Televisor       45
+		Lavarropa       41
+		Lavarropa       16
+		Laptop  	34
+
+
+------------------hasta-------------------------
+Muelle 3 - Buques por amarrar 2
+	Buque: Matz Maersk - bandera: Dinamarca - Total de contenedores: 117
+		Producto	Contenedores
+		Pintura 	27
+		Televisor       24
+		Laptop  	21
+		Pintura 	25
+		Televisor       20
+
+	Buque: MSC Oscar - bandera: Panama - Total de contenedores: 300
+		Producto	Contenedores
+		Pintura 	24
+		Pintura 	12
+		Celular 	20
+		Laptop  	13
+		Pintura 	36
+		Pintura 	46
+		Celular 	37
+		Cerveza 	20
+		Laptop  	49
+		Lavarropa       12
+		Televisor       31
+
+
+-------------------------------------------
+

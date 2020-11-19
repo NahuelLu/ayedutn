@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1605817493 source:c:\users\resid\desktop\tp2\tp2\main.cpp
+	<iostream>
+	<fstream>
+	"listascomp.hpp"
+	"listasordc.hpp"
+	"rwstring.hpp"
+
+1604742537 c:\users\resid\desktop\tp2\tp2\listascomp.hpp
+
+1605315980 c:\users\resid\desktop\tp2\tp2\listasordc.hpp
+
+1601617669 c:\users\resid\desktop\tp2\tp2\rwstring.hpp
+

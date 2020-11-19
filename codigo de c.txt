@@ -1,0 +1,6 @@
+cin.clear();
+
+cout << endl << "Ingrese el nro de muelle del buque a cambiar: ";
+cin >> nmd;
+cout  << "Ingrese el nombre del buque a cambiar: ";
+cin.get();getline(cin, buq.buque);
